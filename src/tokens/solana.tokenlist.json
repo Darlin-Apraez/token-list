@@ -57,17 +57,31 @@
   },
   "timestamp": "2021-03-03T19:57:21+0000",
   "tokens": [
-    {
+     {
       "chainId": 101,
-      "address": "3yULVAWLKE1ErREhLKQmxpB6BSDWu5kRE1nCfAQNLD26",
-      "symbol": "COND",
-      "name": "Condorito Token",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/millionsy/token-list/main/assets/mainnet/HDLRMKW1FDz2q5Zg778CZx26UgrtnqpUDkNNJHhmVUFr/logo.png",
+      "address": "42rzC6ADWbg3AYqgqcbE86RkKnXGREo7x34AxBW3jMv3",
+      "symbol": "Condor",
+      "name": "CondorCoin",
+      "decimals": 12,
+      "logoURI": "https://drive.google.com/file/d/1pVNb_scGZ6ZSwRfLlxP54mytffR5-1li/view?usp=sharing",
       "tags": [
-		"Defi"
-	  ]
-     
+        "Defi",
+        "NFT",
+        "Governance",
+        "Game",
+        "Tool",
+        "Dapp",
+        "Wallet",
+        "investmentfund"
+      ],
+      "extensions": {
+        "website": "https://www.condorcoin.co",
+        "discord server": "https://discord.gg/bW3bCGdA",
+        "twitter": "https://twitter.com/condor_coin",
+        "reddit": "https://www.reddit.com/user/condorcoin",
+        "facebook": "https://www.facebook.com/Condor-Coin-108233578306800"
+        "instagram": "https://www.instagram.com/condorcoin/"
+      }
     },
     {
       "chainId": 101,
